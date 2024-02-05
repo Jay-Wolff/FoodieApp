@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meal_images">meal_images</string-array>
+        <item1> android: srcCompat="@drawable/bonelesswings" </item1>
+        <item2> android:srcCompat="@drawable/quesadilla" </item2>
+        <item3> android:srcCompat="@drawable/mozzarellasticks" </item3>
+        <item4> android:srcCompat="@drawable/onionrings" </item4>
+    <string-array name="titles">titles</string-array>
+        <item1> Bonless Wings </item1>
+        <item2>Quesadilla</item2>
+        <item3>Mozzarella Sticks</item3>
+        <item4>Onion Rings</item4>
+    <string-array name="description">description</string-array>
+        <item1> Boneless wings with honey BBQ sauce coating them </item1>
+        <item2> Peta bread filled with cheese and chicken can be added to it</item2>
+        <item3> Mozzarella sticks breaded with crumbs and fried </item3>
+        <item4> Potatoes cut in a circular disk then fried with bread crumbs till it has a crispy exterior </item4>
+    <string-array name="ingredients">ingredients</string-array>
+        <item1> chicken wings, honey bbq sauce </item1>
+        <item2> peta bread, mozzarella cheese </item2>
+        <item3> mozzarella cheese, bread crumbs </item3>
+        <item4> potatoes, bread crumbs </item4>
+    <string-array name="links">links</string-array>
+        <item1> meh meh </item1>
+        <item2> meh meh </item2>
+        <item3> meh meh </item3>
+        <item4> meh meh </item4>
+    <string-array name="calories">calories</string-array>
+        <item1> 400 </item1>
+        <item2> 250 </item2>
+        <item3> 250 </item3>
+        <item4> 200 </item4>
+</resources>
